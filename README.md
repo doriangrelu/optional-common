@@ -97,7 +97,7 @@ Une classe wrapper contenant les deux valeurs combinées.
 
 ## Licence
 
-Ce projet est distribué sous la licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
+Ce projet est distribué sous la licence MIT. Consultez le fichier [LICENSE](https://github.com/doriangrelu/optional-common/blob/master/LICENCE) pour plus d'informations.
 
 ## Auteur
 
