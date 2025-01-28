@@ -8,6 +8,36 @@
     <artifactId>optional-common</artifactId>
     <version>1.0.0</version>
 
+    <name>${project.groupId}:${project.artifactId}</name>
+    <description>
+        OptionalBuilder est une bibliothèque Java utilitaire qui simplifie la manipulation et la combinaison de deux valeurs optionnelles.
+        Elle permet de créer des opérations synchrones et asynchrones en utilisant des interfaces fonctionnelles, tout en garantissant un code clair et robuste.
+    </description>
+    <url>https://github.com/doriangrelu/optional-common</url>
+
+    <developers>
+        <developer>
+            <name>Dorian GRELU</name>
+            <email>dorian.grelu.pro@gmail.com</email>
+            <roles>
+                <role>OWNER</role>
+            </roles>
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://github.com/doriangrelu/optional-common/blob/master/LICENCE</url>
+        </license>
+    </licenses>
+
+    <scm>
+        <connection>scm:git:git://github.com/doriangrelu/optional-common</connection>
+        <developerConnection>scm:git:ssh://github.com:doriangrelu/optional-common.git</developerConnection>
+        <url>https://github.com/doriangrelu/optional-common/tree/master</url>
+    </scm>
+
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
